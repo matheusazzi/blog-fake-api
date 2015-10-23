@@ -1,0 +1,12 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "./node_modules/.bin/json-server faker.js"
+  },
+  "devDependencies": {
+    "faker": "^3.0.1",
+    "json-server": "^0.8.2"
+  }
+}
